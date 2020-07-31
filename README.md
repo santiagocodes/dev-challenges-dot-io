@@ -10,6 +10,10 @@ Challenge: Create a 404 not found page following the design. The page should be 
 
 User story: I can see a page following the given design
 
+[Responsive Design](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1)
+
+[Live App](https://404devchallenges.netlify.app/)
+
 ## Useful free resources for similar projects
 
 [error404.fun](https://error404.fun/)
