@@ -37,8 +37,8 @@ main {
 }
 
 img {
-   margin: 0 10%;
-   width: 80%;
+   margin: 0 15%;
+   width: 70%;
 }
 
 .message__heading {
@@ -67,8 +67,8 @@ footer {
    text-align: center;
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
    body {
       padding: 2.5em;
    }
@@ -82,7 +82,7 @@ footer {
    article {
       display: flex;
       flex-direction: column;
-      justify-content: space-around;
+      justify-content: center;
    }
 
    img {
@@ -115,18 +115,18 @@ footer {
    }
 
    .message__heading {
-      font-size: 4em;
+      font-size: 3.5em;
    }
 
    .message__paragraph {
-      font-size: 2em;
-      margin-top: 1em;
+      font-size: 1.5em;
+      margin-top: 1.2em;
       line-height: 1.5em;
    }
 
    button {
       padding: 1em 2em;
-      font-size: 1.2em;
+      font-size: 1em;
    }
 
    footer {
